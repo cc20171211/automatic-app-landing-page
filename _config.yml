@@ -2,8 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1511310436
-                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1511310436                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/jp/app/%E3%83%AD%E3%83%88-%E3%83%93%E3%83%B3%E3%82%B4-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA-%EF%BD%81%EF%BD%89%E4%BA%88%E6%B8%AC-%E8%B3%BC%E5%85%A5%E7%AE%A1%E7%90%86/id1511310436                               # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=jp.co.crescentcapital.loto_ai_prediction                                   # Enter Google Play Store URL.
@@ -45,7 +44,7 @@ features                                  :
 
   - title                                 : 完全無料
     description                           : 全ての機能を無料でご利用いただけます。
-    fontawesome_icon_name                 : creative-commons-nc-jp
+    fontawesome_icon_name                 : fa-creative-commons-nc-jp
 
   - title                                 : 抽選結果をすぐに確認
     description                           : 抽選結果は抽選日当日中に更新されます。プッシュ通知設定をしておけば、抽選結果が反映され次第すぐにスマホに通知されます。
@@ -55,8 +54,8 @@ features                                  :
     description                           : 購入したくじを上限なく記録できます。過去の購入記録については、即座に抽選結果を判定してくれます。また、将来のくじを登録しておけば、抽選日に自動で当選結果を判定してくれます。
     fontawesome_icon_name                 : book-open
   
-  - title                                 : これまでの抽選結果を分析
-    description                           : 任意の選択数字の過去当選件数の検索、六曜ごとの
+  - title                                 : 過去の抽選結果を分析
+    description                           : 過去の抽選結果をあらゆる角度から分析します。過去全結果や直近の当選数字のグラフ表示はもちろんのこと、六曜や月毎の当選数字のグラフ表示ができます。さらに、任意の選択数字の過去当選件数を素早く検索できます。
     fontawesome_icon_name                 : calculator
 
   - title                                 : # New Feature Title
@@ -74,7 +73,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
