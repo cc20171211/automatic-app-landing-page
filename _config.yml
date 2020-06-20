@@ -5,7 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 1511310436                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=jp.co.crescentcapital.loto_ai_prediction                                   # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -34,41 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : 最新ＡＩが次回当選結果を予測
+    description                           : 過去の抽選結果を学習したＡＩが次回当選結果を予測します。ＡＩのアルゴリズムには、ディープラーニング（深層学習）の手法のひとつであるＬＳＴＭ（Long short-term memory，長・短期記憶）を採用しております。
+    fontawesome_icon_name                 : laptop-code
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : 全タイプの数字選択式宝くじに対応
+    description                           : 数字選択式宝くじ（ロト７・ロト６・ビンゴ５・ナンバーズ４・ナンバーズ３）について各種機能を提供します。
+    fontawesome_icon_name                 : check-double
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : 完全無料
+    description                           : 全ての機能を無料でご利用いただけます。
+    fontawesome_icon_name                 : creative-commons-nc-jp
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : 抽選結果をすぐに確認
+    description                           : 抽選結果は抽選日当日中に更新されます。プッシュ通知設定をしておけば、抽選結果が反映され次第すぐにスマホに通知されます。
+    fontawesome_icon_name                 : list-ol
+
+  - title                                 : 購入したくじを全て管理
+    description                           : 購入したくじを上限なく記録できます。過去の購入記録については、即座に抽選結果を判定してくれます。また、将来のくじを登録しておけば、抽選日に自動で当選結果を判定してくれます。
+    fontawesome_icon_name                 : book-open
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : これまでの抽選結果を分析
+    description                           : 任意の選択数字の過去当選件数の検索、六曜ごとの
+    fontawesome_icon_name                 : calculator
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
