@@ -2,9 +2,9 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1511310436                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :1511310436                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/jp/app/%E3%83%AD%E3%83%88-%E3%83%93%E3%83%B3%E3%82%B4-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA-%EF%BD%81%EF%BD%89%E4%BA%88%E6%B8%AC-%E8%B3%BC%E5%85%A5%E7%AE%A1%E7%90%86/id1511310436                               # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=jp.co.crescentcapital.loto_ai_prediction                                   # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 最新のＡＩが数字選択式宝くじの当選数字を予測！！
+app_description                           : 最新のＡＩが数字選択式宝くじ（ロト７・ロト６・ビンゴ５・ナンバーズ４・ナンバーズ３）の当選数字を予測！！
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
