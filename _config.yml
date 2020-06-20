@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : list-ol
 
   - title                                 : 購入したくじを全て管理
-    description                           : 購入したくじを上限なく記録できます。過去の購入記録については、即座に抽選結果を判定してくれます。また、将来のくじを登録しておけば、抽選日に自動で当選結果を判定してくれます。
+    description                           : 購入したくじを上限なく記録できます。過去の購入記録については、即座に抽選結果を判定してくれます。また、将来のくじを登録しておけば、抽選日に自動で当選結果を判定します。
     fontawesome_icon_name                 : book-open
   
   - title                                 : 過去の抽選結果を分析
@@ -66,12 +66,12 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#000000"
-topbar_transparency                       : 0.3
+topbar_transparency                       : 0.7
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.9
+cover_overlay_transparency                : 0.3
 
 device_color                              : yellow                                     # Set to: blue, black, yellow, coral or white.
 
