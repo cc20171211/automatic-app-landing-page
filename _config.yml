@@ -10,19 +10,19 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : ロト・ビンゴ・ナンバーズ\n - ＡＩ予測/購入管理     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : ロト・ビンゴ・ナンバーズ - ＡＩ予測/購入管理     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 無料                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 最新のＡＩが数字選択式宝くじ（ロト７・ロト６・ビンゴ５・ナンバーズ４・ナンバーズ３）の当選数字を予測！！
+app_description                           : 最新ＡＩが数字選択式宝くじ（ロト７・ロト６・ビンゴ５・ナンバーズ４・ナンバーズ３）の当選数字を予測！！
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : #Crescent Capital LLC                                
-your_link                                 :                      
+your_name                                 : Crescent Capital LLC                                
+your_link                                 : https://www.crescent-capital.co.jp/                     
 your_city                                 :                                 
-email_address                             : #info@crescent-capital.co.jp
+email_address                             : info@crescent-capital.co.jp
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -54,7 +54,7 @@ features                                  :
     description                           : 購入したくじを上限なく記録できます。過去の購入記録については、即座に抽選結果を判定してくれます。また、将来のくじを登録しておけば、抽選日に自動で当選結果を判定します。
     fontawesome_icon_name                 : book-open
   
-  - title                                 : 過去の抽選結果を分析
+  - title                                 : これまでの抽選結果を分析
     description                           : 過去の抽選結果をあらゆる角度から分析します。過去全結果や直近の当選数字のグラフ表示はもちろんのこと、六曜や月毎の当選数字のグラフ表示ができます。さらに、任意の選択数字の過去当選件数を素早く検索できます。
     fontawesome_icon_name                 : calculator
 
