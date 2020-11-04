@@ -67,4 +67,5 @@ https://policies.google.com/privacy?hl=ja
 <br>
 
 改定:2020年10月1日
+<br>
 制定:2020年5月1日
